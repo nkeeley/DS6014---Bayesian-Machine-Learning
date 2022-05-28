@@ -2,7 +2,7 @@
 
 Language types: Python
 
-Note: many of these notebooks were produced on a remote operating system with pymc3 pre-installed. This package is required to run many of the sampling methods used, and is challenging to install on many computers.
+This repository contains assignments and projects relevant to Bayesian Machine Learning. Topics include practical applications of Bayes Theorem and conjugate analysis, Naive Bayes Classifiers and LDA/QDA Bayes Optimal Classifiers, Bayesian regression models, sampling methods (e.g. Gibbs Sampling, MCMC sampling, etc.), variational inference, Hidden Markov Models, pooled vs unpooled vs. hiearchical models, and an implementation of autoencoder variational Bayes to topic modeling. Note: many of these notebooks were produced on a remote operating system with pymc3 pre-installed. This package is required to run many of the sampling methods used, and is challenging to install on many computers.
 
 ### HW1
 
